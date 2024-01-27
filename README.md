@@ -6,3 +6,4 @@ The prototype are created on Figma and backend code uses Python programming lana
 
 
 !<img width="230" alt="Screen Shot 2024-01-17 at 3 27 00 PM" src="https://github.com/mngngc/tamagotchu/assets/97634408/ec68cad7-df0f-42ce-9065-daa9c8a5b523">
+![tamagotchu_cover](https://github.com/mngngc/tamagotchu/assets/97634408/f9e3b670-16a5-4754-afb0-313f47207d20)
